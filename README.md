@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @soldatsm
 - 👀 I’m interested in bioinformatics
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 🔬 My Research interests: You.
 - 📫 How to reach me soldatsm@yandex.ru
 
 <!---
